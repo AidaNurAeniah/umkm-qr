@@ -275,7 +275,7 @@ class UmkmController extends Controller
         |
         */
 
-        $url = 'http://192.168.254.223:8000/umkm/' . $umkm->slug;
+        $url = 'http://192.168.173.223:8000/umkm/' . $umkm->slug;
 
 
         /*
@@ -314,7 +314,7 @@ class UmkmController extends Controller
         |--------------------------------------------------------------------------
         */
 
-        $url = 'http://192.168.254.223:8000/umkm/' . $umkm->slug;
+        $url = 'http://192.168.173.223:8000/umkm/' . $umkm->slug;
 
 
         /*
